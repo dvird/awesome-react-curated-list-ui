@@ -1,3 +1,6 @@
+![Image Top](https://github.com/dvird/awesome-react-curated-list-ui/blob/main/banner.png)
+
+
 # React Curated List UI Pages
 
 Welcome to React Curated List UI Pages, a meticulously assembled collection of React-based UI components and page templates designed to accelerate the development of visually appealing and highly functional web applications. Our repository is dedicated to providing React developers with a treasure trove of pre-designed pages and UI components that not only adhere to best design practices but also encapsulate the versatility and power of React.
