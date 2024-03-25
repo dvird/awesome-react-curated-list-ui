@@ -12,13 +12,6 @@ Welcome to React Curated List UI Pages, a meticulously assembled collection of R
 - **Community-Driven Selection:** Our list is curated with contributions from the React community, ensuring a diverse and rich selection of components that are continuously updated.
 - **Easy Integration:** Designed with ease of integration in mind, our components and pages are built to be seamlessly integrated into any React project, providing flexibility and ease of use.
 
-## Features
-
-- **Comprehensive UI Component Library:** From navigation bars to modal windows, our library includes a wide array of UI components ready to be deployed in your project.
-- **Pre-Designed Page Templates:** Access a variety of page templates, including landing pages, dashboard interfaces, and more, all designed to meet your users' needs.
-- **Customizable & Scalable:** Our components and pages are built to be easily customized and scaled, ensuring they fit the unique requirements of your project.
-- **Up-to-Date with React Best Practices:** We ensure that all components follow the latest React best practices and coding standards, keeping your project efficient and maintainable.
-
 
 ### Pages
 
@@ -87,6 +80,12 @@ Welcome to React Curated List UI Pages, a meticulously assembled collection of R
 - [Tables Link 3](#tables-link-3) - TBD
 
 
+## Features
+
+- **Comprehensive UI Component Library:** From navigation bars to modal windows, our library includes a wide array of UI components ready to be deployed in your project.
+- **Pre-Designed Page Templates:** Access a variety of page templates, including landing pages, dashboard interfaces, and more, all designed to meet your users' needs.
+- **Customizable & Scalable:** Our components and pages are built to be easily customized and scaled, ensuring they fit the unique requirements of your project.
+- **Up-to-Date with React Best Practices:** We ensure that all components follow the latest React best practices and coding standards, keeping your project efficient and maintainable.
 
 ## Getting Started
 
