@@ -17,45 +17,45 @@ Welcome to React Curated List UI Pages, a meticulously assembled collection of R
 
 **Page Templates Directory**
 - Landing Page: 
-  - [Link 1](#landing-page-link-1)
-  - [Link 2](#landing-page-link-2)
-  - [Link 3](#landing-page-link-3)
-- Dashboard: 
-  - [Link 1](#dashboard-link-1)
-  - [Link 2](#dashboard-link-2)
-  - [Link 3](#dashboard-link-3)
-- Profile Page: 
-  - [Link 1](#profile-page-link-1)
-  - [Link 2](#profile-page-link-2)
-  - [Link 3](#profile-page-link-3)
-- Product Page: 
-  - [Link 1](#product-page-link-1)
-  - [Link 2](#product-page-link-2)
-  - [Link 3](#product-page-link-3)
-- About Us Page: 
-  - [Link 1](#about-us-page-link-1)
-  - [Link 2](#about-us-page-link-2)
-  - [Link 3](#about-us-page-link-3)
-- Contact Page: 
-  - [Link 1](#contact-page-link-1)
-  - [Link 2](#contact-page-link-2)
-  - [Link 3](#contact-page-link-3)
-- Pricing Page: 
-  - [Link 1](#pricing-page-link-1)
-  - [Link 2](#pricing-page-link-2)
-  - [Link 3](#pricing-page-link-3)
-- Blog Page: 
-  - [Link 1](#blog-page-link-1)
-  - [Link 2](#blog-page-link-2)
-  - [Link 3](#blog-page-link-3)
-- Portfolio Page: 
-  - [Link 1](#portfolio-page-link-1)
-  - [Link 2](#portfolio-page-link-2)
-  - [Link 3](#portfolio-page-link-3)
+  - [Link 1](#landing-page-link-1) - TBD
+  - [Link 2](#landing-page-link-2) - TBD
+  - [Link 3](#landing-page-link-3) - TBD
 - Login Page: 
   - [Link 1](#login-page-link-1)
   - [Link 2](#login-page-link-2)
   - [Link 3](#login-page-link-3)
+- Dashboard: 
+  - [Link 1](#dashboard-link-1) - TBD
+  - [Link 2](#dashboard-link-2) - TBD
+  - [Link 3](#dashboard-link-3) - TBD
+- Profile Page: 
+  - [Link 1](#profile-page-link-1) - TBD
+  - [Link 2](#profile-page-link-2) - TBD
+  - [Link 3](#profile-page-link-3) - TBD
+- Product Page: 
+  - [Link 1](#product-page-link-1) - TBD
+  - [Link 2](#product-page-link-2) - TBD
+  - [Link 3](#product-page-link-3) - TBD
+- About Us Page: 
+  - [Link 1](#about-us-page-link-1) - TBD
+  - [Link 2](#about-us-page-link-2) - TBD
+  - [Link 3](#about-us-page-link-3) - TBD
+- Contact Page: 
+  - [Link 1](#contact-page-link-1) - TBD
+  - [Link 2](#contact-page-link-2) - TBD
+  - [Link 3](#contact-page-link-3) - TBD
+- Pricing Page: 
+  - [Link 1](#pricing-page-link-1) - TBD
+  - [Link 2](#pricing-page-link-2) - TBD
+  - [Link 3](#pricing-page-link-3) - TBD
+- Blog Page: 
+  - [Link 1](#blog-page-link-1) - TBD
+  - [Link 2](#blog-page-link-2) - TBD
+  - [Link 3](#blog-page-link-3) - TBD
+- Portfolio Page: 
+  - [Link 1](#portfolio-page-link-1) - TBD
+  - [Link 2](#portfolio-page-link-2) - TBD
+  - [Link 3](#portfolio-page-link-3) - TBD
  
 ### Components
 
