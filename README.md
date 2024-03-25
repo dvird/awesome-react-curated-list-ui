@@ -17,9 +17,12 @@ Welcome to React Curated List UI Pages, a meticulously assembled collection of R
   -  [Link 2](https://github.com/dvird/awesome-react-login-pages/#)
   -  [Link 3](https://github.com/dvird/awesome-react-login-pages/#1)
 - Dashboard: 
-  - [Link 1](#empty) - TBD
-  - [Link 2](#empty) - TBD
-  - [Link 3](#empty) - TBD
+  - [Link 1 - Flatlogic](https://github.com/flatlogic/react-dashboard)
+  - [Link 2 - Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra)
+  - [Link 3 - MUI](https://mui.com/store/collections/free-react-dashboard/)
+  - [Link 4 - Berry](https://github.com/codedthemes/berry-free-react-admin-template)
+  - [Link 5 - VOLT](https://github.com/themesberg/volt-react-dashboard)
+  - [Link 6 - SQUARE](https://github.com/heysafronov/square-react-dashboard)
 - Profile Page: 
   - [Link 1](#empty) - TBD
   - [Link 2](#empty) - TBD
