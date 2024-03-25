@@ -13,9 +13,9 @@ Welcome to React Curated List UI Pages, a meticulously assembled collection of R
   - [Link 2](#landing-page-link-2) - TBD
   - [Link 3](#landing-page-link-3) - TBD
 - Login Page: 
-  - [Link 1](#https://github.com/dvird/awesome-react-login-pages)
-  - [Link 2](#https://github.com/dvird/awesome-react-login-pages)
-  - [Link 3](#https://github.com/dvird/awesome-react-login-pages)
+  -  [Link 1](https://github.com/dvird/awesome-react-login-pages)
+  -  [Link 2](https://github.com/dvird/awesome-react-login-pages/#)
+  -  [Link 3](https://github.com/dvird/awesome-react-login-pages/#1)
 - Dashboard: 
   - [Link 1](#dashboard-link-1) - TBD
   - [Link 2](#dashboard-link-2) - TBD
