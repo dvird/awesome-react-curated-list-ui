@@ -9,67 +9,50 @@ Welcome to React Curated List UI Pages, a meticulously assembled collection of R
 
 **Page Templates Directory**
 - Landing Page: 
-  - [Link 1](#landing-page-link-1) - TBD
-  - [Link 2](#landing-page-link-2) - TBD
-  - [Link 3](#landing-page-link-3) - TBD
+  - [Link 1](#empty) - TBD
+  - [Link 2](#empty) - TBD
+  - [Link 3](#empty) - TBD
 - Login Page: 
   -  [Link 1](https://github.com/dvird/awesome-react-login-pages)
   -  [Link 2](https://github.com/dvird/awesome-react-login-pages/#)
   -  [Link 3](https://github.com/dvird/awesome-react-login-pages/#1)
 - Dashboard: 
-  - [Link 1](#dashboard-link-1) - TBD
-  - [Link 2](#dashboard-link-2) - TBD
-  - [Link 3](#dashboard-link-3) - TBD
+  - [Link 1](#empty) - TBD
+  - [Link 2](#empty) - TBD
+  - [Link 3](#empty) - TBD
 - Profile Page: 
-  - [Link 1](#profile-page-link-1) - TBD
-  - [Link 2](#profile-page-link-2) - TBD
-  - [Link 3](#profile-page-link-3) - TBD
+  - [Link 1](#empty) - TBD
+  - [Link 2](#empty) - TBD
+  - [Link 3](#empty) - TBD
 - Product Page: 
-  - [Link 1](#product-page-link-1) - TBD
-  - [Link 2](#product-page-link-2) - TBD
-  - [Link 3](#product-page-link-3) - TBD
+  - [Link 1](#empty) - TBD
+  - [Link 2](#empty) - TBD
+  - [Link 3](#empty) - TBD
 - About Us Page: 
-  - [Link 1](#about-us-page-link-1) - TBD
-  - [Link 2](#about-us-page-link-2) - TBD
-  - [Link 3](#about-us-page-link-3) - TBD
+  - [Link 1](#empty) - TBD
+  - [Link 2](#empty) - TBD
+  - [Link 3](#empty) - TBD
 - Contact Page: 
-  - [Link 1](#contact-page-link-1) - TBD
-  - [Link 2](#contact-page-link-2) - TBD
-  - [Link 3](#contact-page-link-3) - TBD
+  - [Link 1](#empty) - TBD
+  - [Link 2](#empty) - TBD
+  - [Link 3](#empty) - TBD
 - Pricing Page: 
-  - [Link 1](#pricing-page-link-1) - TBD
-  - [Link 2](#pricing-page-link-2) - TBD
-  - [Link 3](#pricing-page-link-3) - TBD
+  - [Link 1](#empty) - TBD
+  - [Link 2](#empty) - TBD
+  - [Link 3](#empty) - TBD
 - Blog Page: 
-  - [Link 1](#blog-page-link-1) - TBD
-  - [Link 2](#blog-page-link-2) - TBD
-  - [Link 3](#blog-page-link-3) - TBD
+  - [Link 1](#empty) - TBD
+  - [Link 2](#empty) - TBD
+  - [Link 3](#empty) - TBD
 - Portfolio Page: 
-  - [Link 1](#portfolio-page-link-1) - TBD
-  - [Link 2](#portfolio-page-link-2) - TBD
-  - [Link 3](#portfolio-page-link-3) - TBD
+  - [Link 1](#empty) - TBD
+  - [Link 2](#empty) - TBD
+  - [Link 3](#empty) - TBD
  
 ### Components
 
-**Navigation**
-- [Navbar Link 1](#navbar-link-1) - TBD
-- [Navbar Link 2](#navbar-link-2) - TBD
-- [Navbar Link 3](#navbar-link-3) - TBD
-
-**Layout**
-- [Grid System Link 1](#grid-system-link-1) - TBD
-- [Grid System Link 2](#grid-system-link-2) - TBD
-- [Grid System Link 3](#grid-system-link-3) - TBD
-
-**Forms**
-- [Input Fields Link 1](#input-fields-link-1) - TBD
-- [Input Fields Link 2](#input-fields-link-2) - TBD
-- [Input Fields Link 3](#input-fields-link-3) - TBD
-
-**Data Display**
-- [Tables Link 1](#tables-link-1) - TBD
-- [Tables Link 2](#tables-link-2) - TBD
-- [Tables Link 3](#tables-link-3) - TBD
+- [List 1 by brillout](#https://github.com/brillout/awesome-react-components) - TBD
+- [List 2 by enaqx](#https://github.com/enaqx/awesome-react) - TBD
 
 
 ## Why Use React Curated List UI Pages?
