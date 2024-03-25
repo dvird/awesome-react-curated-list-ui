@@ -5,14 +5,6 @@
 
 Welcome to React Curated List UI Pages, a meticulously assembled collection of React-based UI components and page templates designed to accelerate the development of visually appealing and highly functional web applications. Our repository is dedicated to providing React developers with a treasure trove of pre-designed pages and UI components that not only adhere to best design practices but also encapsulate the versatility and power of React.
 
-## Why Use React Curated List UI Pages?
-
-- **Time-Saving:** Jumpstart your project with our ready-to-use UI components and page layouts, reducing development time significantly.
-- **Quality and Diversity:** Each component and page template in our collection has been hand-picked for its excellence in design, usability, and adaptability to various web development needs.
-- **Community-Driven Selection:** Our list is curated with contributions from the React community, ensuring a diverse and rich selection of components that are continuously updated.
-- **Easy Integration:** Designed with ease of integration in mind, our components and pages are built to be seamlessly integrated into any React project, providing flexibility and ease of use.
-
-
 ### Pages
 
 **Page Templates Directory**
@@ -78,6 +70,14 @@ Welcome to React Curated List UI Pages, a meticulously assembled collection of R
 - [Tables Link 1](#tables-link-1) - TBD
 - [Tables Link 2](#tables-link-2) - TBD
 - [Tables Link 3](#tables-link-3) - TBD
+
+
+## Why Use React Curated List UI Pages?
+
+- **Time-Saving:** Jumpstart your project with our ready-to-use UI components and page layouts, reducing development time significantly.
+- **Quality and Diversity:** Each component and page template in our collection has been hand-picked for its excellence in design, usability, and adaptability to various web development needs.
+- **Community-Driven Selection:** Our list is curated with contributions from the React community, ensuring a diverse and rich selection of components that are continuously updated.
+- **Easy Integration:** Designed with ease of integration in mind, our components and pages are built to be seamlessly integrated into any React project, providing flexibility and ease of use.
 
 
 ## Features
