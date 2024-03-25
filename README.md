@@ -51,8 +51,8 @@ Welcome to React Curated List UI Pages, a meticulously assembled collection of R
  
 ### Components
 
-- [List 1 by brillout](#https://github.com/brillout/awesome-react-components) - TBD
-- [List 2 by enaqx](#https://github.com/enaqx/awesome-react) - TBD
+- [List 1 by brillout](https://github.com/brillout/awesome-react-components)
+- [List 2 by enaqx](https://github.com/enaqx/awesome-react)
 
 
 ## Why Use React Curated List UI Pages?
